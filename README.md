@@ -8,4 +8,4 @@ HTML,CSS
 
 ## About
 
-A website dedicated to daughters birthday.
+A website dedicated to my daughters birthday.
